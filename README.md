@@ -13,7 +13,9 @@
 Hey there!
 
 This Scenario is an extension of De_shortdust by Green_S
-you can find his composition here https://steamcommunity.com/sharedfiles/filedetails/?id=2427626848
+you can find his composition <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2427626848"> here </a>
+
+You can also see the scenario in steam workshop <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2439952373"> here </a>
 
 The Scenario is build in VR for better FPS, you are more then welcome to take it and transform it to other map, however if you upload it please send me a massage before.
 
