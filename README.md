@@ -12,7 +12,7 @@
 
 Hey there!
 
-This map is an extension of De_shortdust by Green_S
+This Scenario is an extension of De_shortdust by Green_S
 you can find his composition here https://steamcommunity.com/sharedfiles/filedetails/?id=2427626848
 
 The Scenario is build in VR for better FPS, you are more then welcome to take it and transform it to other map, however if you upload it please send me a massage before.
