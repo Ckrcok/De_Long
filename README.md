@@ -1,10 +1,10 @@
 # De_Long
 
 <p align="center">
-  <a href="https://i.imgur.com/9G0JWbb.jpg">
+  <a href="https://github.com/Ckrcok/De_Long">
     <img
       alt="connect-four Inspace"
-      src="https://i.imgur.com/9G0JWbb.jpg"
+      src="https://i.imgur.com/r1D31Zo.jpg"
       width="400"
     />
   </a>
